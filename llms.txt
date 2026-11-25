@@ -1,0 +1,29 @@
+# Nyladic Labs
+
+> A small engineering studio in Bengaluru, India, founded in 2026. We build AI products, and make sure they work.
+
+AI can write software in minutes. Making sure it works still takes care, and that's the part we don't skip.
+
+## Products
+
+- Tabstop: pick up where you stopped with AI coding agents. A local record of your Claude Code and Codex sessions. Live soon, open source under Apache-2.0.
+- More tools, built the same way, are in development. We share each one on https://nyladic.com when it is ready.
+
+## What we do
+
+- AI products: our own, starting with Tabstop.
+- AI agents: software that does real work and keeps a record of what it did.
+- Small tools: experiments we build, test and share for free.
+
+## How we work
+
+- Proof over promises: if we say it works, we can show you why.
+- A human decides: AI does the work, and a human signs off on what ships.
+- Open where we can: what we can share, we open-source.
+
+## Contact
+
+- Email: hello@nyladic.com (a human reads every email)
+- Website: https://nyladic.com/
+- LinkedIn: https://www.linkedin.com/company/nyladic
+- GitHub: https://github.com/nyladic
